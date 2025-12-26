@@ -23,8 +23,3 @@ I learned to troubleshoot misconfigurations based on assigned trunking and acces
 
 * Everything I type is from documentation I jot down while doing the labs and when I dont understand something completely I use AI to describe the concept to me. I do have Network+ so not everything is new but I am also studying for CCNA to deepen my networking understanding. I hope you enjoyed this write up.
 
-
-/README.md
-/diagrams/network-topology.png
-/configs/router-config.txt
-/configs/switch-config.txt
